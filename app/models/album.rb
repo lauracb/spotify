@@ -1,4 +1,4 @@
 class Album < ApplicationRecord
-  belongs_to :image_url
+  belongs_to :artist
   has_many :songs
 end

@@ -1,11 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: one
-  number: MyString
-  preview_url: MyString
+  album: one
 
 two:
-  name: two
-  number: MyString
-  preview_url: MyString
+  album: two
