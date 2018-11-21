@@ -2,6 +2,12 @@
 
 one:
   album: one
+  name: MyString
+  number: MyString
+  preview_url: MyString
 
 two:
   album: two
+  name: MyString
+  number: MyString
+  preview_url: MyString

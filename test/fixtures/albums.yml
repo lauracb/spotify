@@ -2,6 +2,12 @@
 
 one:
   artist: one
+  name: MyString
+  image_url: MyString
+  released_at: MyString
 
 two:
   artist: two
+  name: MyString
+  image_url: MyString
+  released_at: MyString
