@@ -1,0 +1,28 @@
+.card-img-top {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover; 
+}
+
+.card-img-album{
+    width: 100%;
+    height: 8rem;
+    object-fit: cover; 
+}
+
+.card h6 {
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.card p {
+    font-size: 12px;
+    margin-left: 10px;;
+}
+
+.img-artist{
+    border-radius: 20px;
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+}
